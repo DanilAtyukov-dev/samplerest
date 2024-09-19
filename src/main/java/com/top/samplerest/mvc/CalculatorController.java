@@ -1,4 +1,4 @@
-package com.top.samplerest;
+package com.top.samplerest.mvc;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

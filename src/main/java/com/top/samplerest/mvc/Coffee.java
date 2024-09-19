@@ -1,4 +1,4 @@
-package com.top.samplerest;
+package com.top.samplerest.mvc;
 
 import java.util.UUID;
 
